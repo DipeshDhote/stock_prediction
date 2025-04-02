@@ -1,0 +1,64 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Ignore log files
+*.log
+logs/
+debug.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Ignore Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore Java dependencies
+target/
+*.jar
+*.war
+*.ear
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore environment files
+.env
+.venv
+.env.local
+.env.development
+.env.production
+
+# Ignore build files
+/dist
+/build
+/out
+
+# Ignore database files
+*.sqlite3
+*.db
+*.sql
+
+# ignore models
+models/

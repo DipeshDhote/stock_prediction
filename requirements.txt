@@ -1,0 +1,19 @@
+# load data
+yfinance
+
+numpy
+pandas
+
+seaborn
+matplotlib
+
+python-dotenv
+
+tensorflow
+scikit-learn
+
+# Framework
+streamlit
+
+# For Paths
+joblib
